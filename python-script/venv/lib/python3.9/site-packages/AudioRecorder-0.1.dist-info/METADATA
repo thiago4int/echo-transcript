@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: AudioRecorder
+Version: 0.1
+Summary: A simple example package
+Author: Reman khan
+Author-email: remankhanrw@email.com
+License-File: Licence.txt
+Requires-Dist: pyaudio
+
